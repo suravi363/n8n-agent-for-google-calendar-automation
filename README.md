@@ -23,7 +23,7 @@ Supports creating, updating, deleting, and listing events — powered by **OpenA
   * Works with your personal or business calendar.
 *  **Supports Both Text & Audio Input** (Detects if you send voice message)
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * **n8n** (Workflow Automation)
 * **Telegram Bot API**
